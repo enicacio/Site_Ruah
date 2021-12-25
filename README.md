@@ -1,4 +1,5 @@
-# Site_Ruah
-Site em HTML e CSS - Visite o site:
+# Site Ruah
 
-# https://igrejaruah.netlify.app/ #
+Site estático com informações básicas para contato da Igreja Ruah Sorocaba
+
+### Site -> https://igrejaruah.netlify.app/
